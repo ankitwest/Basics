@@ -1,2 +1,4 @@
-# basics
+# Basics
 Kotlin Basic
+
+Simply basic thing.
