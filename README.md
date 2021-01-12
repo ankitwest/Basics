@@ -1,4 +1,6 @@
-# Basics
-Kotlin Basic
+# Basics.
+Kotlin Basic 
 
 Simply basic thing.
+
+
